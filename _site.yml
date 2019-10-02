@@ -1,5 +1,5 @@
 name: "blog-template"
-title: "yannkevin-lowe-Blog"
+title: "Yann Kevin's Blog"
 output_dir: "docs"
 navbar:
   right:
