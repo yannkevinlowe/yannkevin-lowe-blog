@@ -1,35 +1,17 @@
 [
   {
-    "path": "posts/2019-10-16-article1/",
+    "path": "posts/2019-09-18-article-1/",
     "title": "Overfishing",
-    "description": "A short description of the post.",
+    "description": {},
     "author": [
       {
-        "name": "yann kevin",
+        "name": "Yann Kevin Njepang Lowe",
         "url": {}
       }
     ],
     "date": "2019-10-16",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-10-16T12:22:22+02:00"
-  },
-  {
-    "path": "posts/2019-09-18-article-1/",
-    "title": "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time",
-    "description": {},
-    "author": [
-      {
-        "name": "Nicolas Devilez",
-        "url": {}
-      }
-    ],
-    "date": "2019-09-18",
-    "categories": [
-      "elephant",
-      "track"
-    ],
-    "preview": "posts/2019-09-18-article-1/image/where-s-my-elephant.jpg",
-    "last_modified": "2019-10-02T11:35:14+02:00"
+    "last_modified": "2019-10-23T18:48:33+02:00"
   }
 ]

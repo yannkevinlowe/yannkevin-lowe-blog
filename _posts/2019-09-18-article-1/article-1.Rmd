@@ -1,12 +1,8 @@
 ---
-title: "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time"
+title: "Overfishing"
 author:
-  - name: Nicolas Devilez
-date: 09-18-2019
-categories:
-  - elephant
-  - track
-preview: image/where-s-my-elephant.jpg
+  - name: Yann Kevin Njepang Lowe
+date: 10-16-2019
 output:
   distill::distill_article:
     self_contained: false
@@ -16,29 +12,30 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+I. Title: Overfishing
 
-![ [Credit: Alex Dissanayake Getty Images](https://www.gettyimages.be/detail/foto/dusk-falling-as-elephants-grazing-kenya-stockfotos/187255538) ](image/where-s-my-elephant.jpg)
+II. Name of magazine
 
-## Vocabulary 
+http://www.ethicalcorp.com/over-fishing-worse-threat-oceans-climate-change 
 
-| Words from the text | Synonym/explanation in English |
-| ------------------- | ------------------------------ |
-| E.g. To cope with   | To deal with                   |
-|                     | Not too distant future         |
+III. Vocabulary 
 
-## Analysis table 
+| Words from the text | Synonym / explanation in English |
+|----------------------------|----------------------------------|
+| Mitigating climate  | Abate climat |
+| Wider environmental impact | Broad |
+| Criticism | catchy |
 
-|                              |                                                                     |
-| ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | (insert names and, if possible, professions)                        |
-| Published in?                | (insert date)                                                       |
-| General topic?               |  (summarize the topic in one or two sentences)                      |
-| Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
-| Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
-| Remaining questions?         | (check if there are still interrogations at the end of the article) |
+IV. Analysis table
 
-
-<https://www.scientificamerican.com/article/wheres-my-elephant-high-tech-collars-track-wildlife-in-real-time1/?redirect=1>
+|   |   |
+|------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Researchers | Angeli Mehta is a former BBC current affairs producer, with a research PhD |
+| Published in? | 22Th of January 2019 |
+| General topic? | Over-fishing a worse threat to oceans than climate change |
+| Procedure/what was examined? | Angeli Mehta reports on how initiatives like Global Fishing Watch, Sky’s Ocean Rescue and the retailer-led Seafood Task Force are trying to tackle a practice that is doing untold damage to the marine ecosystem |
+| Conclusions/discovery? | At the G7 meeting of environment, energy and oceans ministers in Halifax last September, Canada announced it would invest up to C$11.6m to combat illegal, unreported and unregulated fishing throughout the world and declared support for Global Fishing Watch, committing to publicly sharing information about the health of Canada’s fish stocks and its fisheries management |
+| Remaining questions? | See Are sustainability certification schemes fit for purpose? |
 
 
 
