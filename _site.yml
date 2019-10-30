@@ -14,5 +14,6 @@ navbar:
 base_url: https://yannkevinlowe.github.io/yannkevin-lowe-blog/
 collections:
     posts:
+      disqus: yannkevin-lowe-blog
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
