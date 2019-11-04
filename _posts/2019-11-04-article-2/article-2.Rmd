@@ -1,0 +1,48 @@
+---
+title: "article-2: "
+description: |
+  A short description of the post.
+author:
+  - name: Yann Kevin Njepang Lowe
+    url: {}
+date: 11-04-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+
+I. Title: Overfishing 
+
+II. Name of magazine : 
+https://link.springer.com/article/10.1007/s10750-019-3932-9
+
+III. Vocabulary 
+
+|   Words from the text  | Synonym / explanation in English |
+| ---------------------- | -------------------------------- |
+| Slot size              | channel amplitude                |
+| Gillnet mesh size      |                                  |
+| Hook size              |                                  |
+| Fishery regulations    |                                  |
+|  sustainable           | green                            |
+| hurdle                 | hindrance                        |
+
+IV. Analysis table
+
+| Researchers                  | Eliaza Mkuna, and Lloyd J. S. Baiyeguni                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Published in?                | 14 March 2019                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| General topic?               | Determinants of Nile perch (Lates niloticus) overfishing and its intensity in Lake Victoria, Tanzania: a double-hurdle model approach.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Procedure/what was examined? | This study was conducted in Lake Victoria, Tanzania, the fishery is diverse, highly dispersed and fragmented with about 1,500 landing sites and more than 120,000 fishers.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Conclusions/discovery?       | Nile perch fish is important for artisan fishers’ livelihood in Lake Victoria as it offers employment and food security. With the high demand of Nile perch for local and international markets, as well as the open access nature of Lake Victoria, significant fishing pressure has resulted in overfishing over the past three decades. This study examined determinants of Nile perch (Lates niloticus) overfishing and its intensity in Lake Victoria, Tanzania. The results of the study confirmed Nile perch overfishing in the study area. The double-hurdle model estimates showed that different institutional and fishing efforts influence Nile perch overfishing and its intensity and this information could guide sustainable fishery management practices and policy interventions. |
+| Remaining questions?        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+
+
+

@@ -11,7 +11,7 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-
+![](image/med_-_tuna_-_rich_carey.jpg)
 I. Title: Overfishing
 
 II. Name of magazine
