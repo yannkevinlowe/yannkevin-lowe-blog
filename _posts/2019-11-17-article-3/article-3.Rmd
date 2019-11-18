@@ -1,0 +1,45 @@
+---
+title: "article-3"
+description: |
+  A short description of the post.
+author:
+  - name: Yann Kevin Njepang Lowe
+    url: {}
+date: 11-17-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+I. Title: Overfishing
+![](http://localhost:8787/file_show?path=%2Fmedia%2Fsf_shared%2Fprojects%2Fprojet%2Ffile_show.jpeg)
+
+II. Name of magazine
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6594768/
+
+III. Vocabulary 
+
+| Words from the text  | Synonym / explanation in English  |
+| -------------------- | --------------------------------- |
+| overexploitation     | overutilisation                   |
+| ecosystems           | environment                       |
+| temperate            | condition                         |
+| thresholds           | brink                             |
+| magnitude            | degree                            |
+
+
+IV. Analysis table
+
+| Researchers                  | Jason S. Link and Reg A. Watson                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Published in?                |  26 jun 2019                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| General topic?               | Global ecosystem overfishing: Clear delineation within real limits to production                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Procedure/what was examined? | increasing pressure on tropical fish and a climate-induced pole shift.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Conclusions/discovery?       | The well-documented value of marine fisheries is threatened by overfishing. Management typically focuses on target populations but lacks effective tools to document or restrain overexploitation of marine ecosystems. Here, we present three indices and accompanying thresholds to detect and delineate ecosystem overfishing (EOF): the Fogarty, Friedland, and Ryther indices. These are based on widely available and readily interpreted catch and satellite data that link fisheries landings to primary production using known limits of trophic transfer efficiency. We propose theoretically and empirically based thresholds for each of those indices; with these criteria, several ecosystems are fished sustainably, but nearly 40 to 50% of tropical and temperate ecosystems exceed even extreme thresholds. Applying these criteria to global fisheries data results in strong evidence for two specific instances of EOF, increases in both pressure on tropical fish and a climate-mediated polar shift. Here, we show that these two patterns represent evidence for global EOF.  |
+| Remaining questions?         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+
+

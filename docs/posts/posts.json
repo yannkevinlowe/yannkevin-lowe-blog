@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2019-11-17-article-3/",
+    "title": "article-3",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Yann Kevin Njepang Lowe",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-17",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-11-19T00:52:01+01:00"
+  },
+  {
     "path": "posts/2019-11-04-article-2/",
     "title": "article-2: ",
     "description": "A short description of the post.",
@@ -12,7 +27,7 @@
     "date": "2019-11-04",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-11-04T23:37:51+01:00"
+    "last_modified": "2019-11-19T00:20:22+01:00"
   },
   {
     "path": "posts/2019-09-18-article-1/",
@@ -27,6 +42,6 @@
     "date": "2019-10-16",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-11-04T23:36:57+01:00"
+    "last_modified": "2019-11-19T00:19:57+01:00"
   }
 ]
